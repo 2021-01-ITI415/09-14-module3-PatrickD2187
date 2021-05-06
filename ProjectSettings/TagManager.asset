@@ -5,9 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Water
-  - Doorway
-  - EnemyZone
   - Ambience
+  - Collectible
   layers:
   - Default
   - TransparentFX
