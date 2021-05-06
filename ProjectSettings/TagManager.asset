@@ -7,6 +7,8 @@ TagManager:
   - Water
   - Ambience
   - Collectible
+  - Doorway
+  - Enemy
   layers:
   - Default
   - TransparentFX
